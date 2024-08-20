@@ -46,6 +46,3 @@ This prompt lacks specificity and clarity. It doesn’t provide enough informati
 Now, let’s improve it:
 Improved Prompt: “Generate a serene sunset landscape with rolling hills, a calm lake, and a few pine trees.”
 The improved prompt specifies the scene, lighting, and elements, making it more effective. It guides the AI model to create a coherent and relevant image. Clear prompts lead to better results because they provide context and constraints for the model to follow.
-
-
-
